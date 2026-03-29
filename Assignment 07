@@ -1,0 +1,19 @@
+Identifying Risks in a Medical Case Study
+Student Name: Orhan Gumus
+Class Name: AI in Healthcare
+Instructor: Professor Dr. Doreen Rosenstrauch
+Date: March 11, 2026
+Case Study Summary
+The medical case study describes a 59-year-old female patient with a 12-year history of type 2 diabetes who was admitted to the hospital because of severe abdominal pain, nausea, and vomiting lasting for three days. Laboratory tests confirmed that the patient was experiencing diabetic ketoacidosis (DKA), a serious complication of diabetes that occurs when the body produces high levels of blood acids called ketones. Her blood glucose level was elevated, and tests also showed signs of inflammation and electrolyte imbalance. Treatment included insulin therapy, fluid replacement, and correction of acidosis, which eventually improved her symptoms (Zhang et al., 2025).
+Potential Health Risks
+One major risk for this patient is severe dehydration. DKA causes the body to lose large amounts of fluids due to increased urination and vomiting. If dehydration is not treated quickly, it can lead to kidney failure or shock. Proper hydration and monitoring are essential to prevent further complications.
+Another risk is electrolyte imbalance, particularly changes in potassium levels. Electrolytes are necessary for normal heart and muscle function. If potassium levels become too high or too low, the patient could experience dangerous heart rhythm problems or muscle weakness.
+A third important risk is delayed diagnosis or misdiagnosis. In some cases, symptoms of DKA can resemble other conditions such as gastrointestinal problems or infections. If healthcare providers fail to recognize the condition early, the patient may develop life-threatening complications such as coma or organ damage (Zhang et al., 2025).
+Role of AI in Managing Risks
+Artificial intelligence (AI) can help reduce these risks in several ways. AI-based clinical decision systems can analyze patient data such as blood glucose levels, symptoms, and medical history to help doctors identify diabetes complications earlier and more accurately. Machine learning models can also predict which patients are at higher risk of complications, allowing healthcare providers to intervene sooner. In addition, AI can monitor electronic health records to alert clinicians when abnormal laboratory results appear, improving patient safety and treatment outcomes (Rehman et al., 2026).
+Conclusion
+Identifying risks in healthcare is extremely important because it allows medical professionals to prevent serious complications before they occur. Early recognition of risks such as dehydration, electrolyte imbalance, and delayed diagnosis can significantly improve patient outcomes. With the help of AI technology, healthcare providers can analyze large amounts of patient data quickly and accurately, helping them make better decisions and deliver safer care.
+References
+Rehman, M. U., Rehan, I., & Khalid, S. (2026). AI-driven clinical decision support system for enhanced diabetes diagnosis and management. Journal of Medical Artificial Intelligence Research. 
+Zhang, M., Li, J., Fan, L., & Liu, H. (2025). Misdiagnosis of diabetic ketoacidosis: A case report. Journal of Medical Case Reports, 19(409). 
+

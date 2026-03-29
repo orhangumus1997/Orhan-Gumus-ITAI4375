@@ -1,0 +1,24 @@
+Healthcare Dataset Basic Statistics Analysis
+
+This assignment analyzes a mock healthcare dataset consisting of five outpatient clinic visits. The goal is to calculate basic descriptive statistics for numerical variables, specifically the average age of patients and the average heart rate. The steps used to arrive at the results are shown below.
+Step 1: Identify Relevant Data
+From the dataset, the numerical values required are:
+Ages: 45, 62, 28, 55, 39
+Heart Rates (beats per minute): 72, 78, 88, 76, 70
+Step 2: Calculate Average Age
+The formula for calculating the average (mean) is:
+Average = (Sum of values) / (Number of values)
+
+Sum of ages = 45 + 62 + 28 + 55 + 39 = 229
+Number of patients = 5
+
+Average Age = 229 / 5 = 45.8 years
+Step 3: Calculate Average Heart Rate
+Using the same formula for average:
+
+Sum of heart rates = 72 + 78 + 88 + 76 + 70 = 384
+Number of patients = 5
+
+Average Heart Rate = 384 / 5 = 76.8 beats per minute
+Conclusion
+Based on the analysis of the mock healthcare dataset, the average age of the patients is 45.8 years, and the average heart rate is 76.8 beats per minute. These basic statistics provide a simple overview of the patient population represented in the dataset.

@@ -1,0 +1,26 @@
+Critiquing a Natural Language Processing (NLP) Study in Healthcare
+
+Student Name: Orhan Gumus
+Class Name: AI in Healthcare
+Instructor: Professor Dr. Doreen Rosenstrauch
+Date: March 19, 2026
+ 
+Abstract
+Natural Language Processing (NLP) is an area of artificial intelligence that focuses on enabling computers to understand, interpret, and process human language. In healthcare, NLP is increasingly used to analyze electronic health records (EHRs) to extract meaningful clinical information efficiently. This paper examines the application of NLP in medical records, highlighting its benefits and limitations. The analysis discusses how NLP improves efficiency and decision-making while also raising concerns related to data privacy and accuracy. The paper evaluates whether the advantages of NLP outweigh its risks and concludes with a balanced perspective on its role in modern healthcare systems.
+ 
+Main Paper
+Introduction
+Natural Language Processing (NLP) is transforming healthcare by enabling automated analysis of large volumes of medical text. The use of NLP in electronic health records (EHRs) allows healthcare providers to quickly identify critical patient information without manually reviewing extensive documentation. This paper argues that while NLP significantly improves efficiency and clinical decision-making, it also introduces challenges related to accuracy and patient privacy that must be carefully managed.
+Background
+Healthcare systems generate vast amounts of unstructured data in the form of clinical notes, discharge summaries, and physician reports. Traditionally, extracting meaningful insights from these records required manual review, which is time-consuming and prone to human error. NLP technology addresses this issue by using algorithms to identify key medical terms, diagnoses, and patterns within text data (Foreseemed, 2023). As a result, NLP has become an essential tool in modern healthcare analytics and clinical support systems.
+Body
+One major benefit of NLP in healthcare is improved efficiency. By automatically extracting important information from EHRs, NLP reduces the time healthcare professionals spend reviewing patient records. This allows physicians and nurses to focus more on patient care rather than administrative tasks. Studies have shown that NLP systems can process large volumes of data much faster than humans, leading to increased productivity in healthcare settings (Wang et al., 2021).
+Another important benefit is enhanced clinical decision-making. NLP systems can identify patterns and relevant patient information that may not be immediately obvious to clinicians. For example, NLP can detect symptoms, medication histories, and risk factors across multiple records, helping providers make more informed decisions. This can improve diagnosis accuracy and patient outcomes (Jiang et al., 2020).
+Despite these advantages, there are notable limitations. One major concern is data privacy and security. Medical records contain highly sensitive patient information, and using NLP systems increases the risk of data breaches or unauthorized access. Ensuring compliance with regulations such as HIPAA is essential but can be challenging when handling large datasets (Jiang et al., 2020).
+Another limitation is the potential for errors and misinterpretation. NLP systems may struggle with complex medical language, abbreviations, or context-specific meanings. Inaccurate data extraction could lead to incorrect conclusions or clinical decisions, which may negatively affect patient care. Although NLP technology is improving, it is not yet perfect and still requires human oversight (Wang et al., 2021).
+Conclusion
+In conclusion, NLP offers significant advantages in healthcare by improving efficiency and supporting better clinical decision-making. However, it also presents challenges related to data privacy and accuracy. The benefits of NLP appear to outweigh the risks, especially when appropriate safeguards and human oversight are in place. As technology continues to advance, NLP is likely to play an even greater role in healthcare, provided that ethical and technical concerns are properly addressed.
+References
+Foreseemed. (2023). Natural language processing in healthcare medical records.
+Jiang, F., Jiang, Y., Zhi, H., Dong, Y., Li, H., Ma, S., Wang, Y., Dong, Q., Shen, H., & Wang, Y. (2020). Artificial intelligence in healthcare: Past, present and future. Stroke and Vascular Neurology, 5(2), 230–243.
+Wang, Y., Kung, L., & Byrd, T. A. (2021). Big data analytics: Understanding its capabilities and potential benefits for healthcare organizations. Technological Forecasting and Social Change, 126, 3–13.

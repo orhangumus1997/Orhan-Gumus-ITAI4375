@@ -1,0 +1,56 @@
+AI in Healthcare: A Glossary of Key Terms
+
+Orhan Gumus
+ITAI 4375
+Professor Dr. Doreen Rosenstrauch
+February 28, 2026
+ 
+Introduction
+Artificial Intelligence (AI) is transforming healthcare by enhancing diagnosis, improving treatment planning, increasing operational efficiency, and supporting clinical decision-making. As AI technologies become more integrated into hospitals, research institutions, and public health systems, professionals across disciplines must understand the terminology associated with these innovations. Without a shared vocabulary, communication between clinicians, data scientists, administrators, and policymakers becomes fragmented, limiting effective collaboration.
+Understanding AI terminology in healthcare is especially important because these technologies directly influence patient safety, clinical accuracy, ethical considerations, and regulatory compliance. Clear knowledge of foundational concepts enables healthcare professionals to critically evaluate AI systems, assess their reliability, and responsibly integrate them into clinical practice. This glossary provides key terms related to AI in healthcare, along with definitions, practical applications, and explanations of their significance.
+
+Glossary
+Algorithm
+A step-by-step set of rules used by a computer to perform a task. Example: analyzing lab results to predict sepsis. Significance: forms the foundation of AI systems and directly impacts patient outcomes.
+Algorithmic Bias
+Systematic errors in AI systems due to biased data. Example: reduced accuracy for underrepresented populations. Significance: may worsen healthcare disparities if not addressed.
+Artificial Intelligence (AI)
+Computer systems designed to perform tasks requiring human intelligence. Example: identifying tumors in radiology images. Significance: enhances diagnostic accuracy and efficiency.
+Clinical Decision Support System (CDSS)
+Technology that provides clinicians with decision-making recommendations. Example: drug interaction alerts. Significance: reduces medical errors and supports evidence-based care.
+Data Mining
+The process of discovering patterns in large datasets. Example: identifying hospital readmission trends. Significance: supports predictive healthcare strategies.
+Deep Learning
+A subset of machine learning using layered neural networks. Example: cancer detection in imaging. Significance: enables high-accuracy image analysis.
+EHR Integration
+Embedding AI tools into electronic health records. Example: predicting patient deterioration. Significance: supports real-time clinical insights.
+Explainable AI (XAI)
+AI systems that provide understandable reasons for decisions. Example: highlighting factors contributing to risk scores. Significance: builds trust and accountability.
+Machine Learning (ML)
+AI systems that learn from data without explicit programming. Example: predicting readmissions. Significance: enables personalized and predictive medicine.
+Natural Language Processing (NLP)
+AI that understands human language. Example: extracting information from physician notes. Significance: unlocks insights from unstructured data.
+Neural Network
+Brain-inspired computational model with interconnected nodes. Example: classifying skin lesions. Significance: powers advanced diagnostic systems.
+Precision Medicine
+Customizing treatment based on individual characteristics. Example: AI analyzing genomic data for cancer therapy. Significance: enhances personalized care.
+Predictive Analytics
+Using AI to forecast future outcomes. Example: identifying high-risk patients. Significance: improves preventative care and cost efficiency.
+Reinforcement Learning
+Machine learning based on rewards and penalties. Example: optimizing radiation doses. Significance: supports adaptive treatment planning.
+Supervised Learning
+Training models using labeled datasets. Example: tumor detection from labeled MRI scans. Significance: widely used for diagnostic classification.
+Unsupervised Learning
+Identifying patterns in unlabeled data. Example: clustering patient subtypes. Significance: supports research and discovery.
+
+Reflection
+Creating this glossary deepened my understanding of how AI concepts are interconnected within healthcare. I learned that while many terms are related, each plays a distinct role in clinical applications. Additionally, examining algorithmic bias and explainability emphasized the ethical responsibility involved in deploying AI systems.
+This glossary can serve as a shared reference for multidisciplinary healthcare teams. A common understanding of AI terminology promotes effective collaboration between clinicians, IT professionals, administrators, and researchers, ultimately supporting patient safety and quality care.
+
+References
+Davenport, T., & Kalakota, R. (2019). The potential for artificial intelligence in healthcare. Future Healthcare Journal, 6(2), 94–98.
+Esteva, A., et al. (2017). Dermatologist-level classification of skin cancer with deep neural networks. Nature, 542, 115–118.
+Obermeyer, Z., et al. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science, 366, 447–453.
+Rajkomar, A., Dean, J., & Kohane, I. (2019). Machine learning in medicine. New England Journal of Medicine, 380, 1347–1358.
+Sutton, R. T., et al. (2020). Clinical decision support systems overview. NPJ Digital Medicine, 3(17).
+Topol, E. (2019). Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again. Basic Books.

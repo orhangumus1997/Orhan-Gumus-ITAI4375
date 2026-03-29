@@ -1,0 +1,34 @@
+Exploring Social Determinants of Health as Non-Traditional Health Data
+
+Student Name: Orhan Gumus
+Class Name: Ai in Healthcare
+Instructor: Dr. Doreen Rosenstrauch
+Date: February 26, 2026
+
+Abstract
+Social determinants of health (SDOH) represent non-traditional health data that significantly influence health outcomes beyond clinical care. This paper examines the concept of SDOH, provides key examples, and analyzes how such data can be leveraged to improve population health outcomes. Additionally, ethical and privacy-related concerns associated with SDOH data use are discussed.
+
+Keywords: social determinants of health, health equity, population health, data ethics
+
+Introduction
+Social determinants of health (SDOH) refer to the social, economic, and environmental conditions that shape individual and population health outcomes. The central thesis of this paper is that integrating SDOH data into health systems can improve health outcomes and reduce disparities when ethical safeguards are applied.
+
+Background
+Historically, healthcare systems focused primarily on clinical data such as diagnoses, laboratory results, and medical imaging. However, growing evidence demonstrates that social and environmental factors account for a substantial proportion of health outcomes. As a result, SDOH have gained importance in public health research and policy development.
+
+Body
+SDOH include factors such as income level, education, housing stability, neighborhood environment, and access to healthcare services. For example, individuals experiencing housing insecurity have higher rates of chronic disease and hospitalization (Braveman & Gottlieb, 2014). Another example is food insecurity, which is strongly associated with diabetes and cardiovascular disease (Walker et al., 2021). Education level also correlates with health literacy and preventive care utilization (Magnan, 2017).
+
+Healthcare organizations increasingly use SDOH data to identify at-risk populations, design targeted interventions, and allocate resources more effectively. Predictive analytics incorporating SDOH can improve disease prevention strategies and reduce avoidable hospital admissions (Rajkomar et al., 2022).
+
+Despite these benefits, ethical concerns exist regarding privacy, data accuracy, and potential misuse. SDOH data may unintentionally stigmatize communities or reinforce bias if improperly interpreted. Ensuring transparency, informed consent, and equitable data governance is essential.
+
+Conclusion
+In conclusion, social determinants of health represent a critical non-traditional data source that enhances understanding of health beyond clinical measures. The evidence suggests that responsible integration of SDOH data can improve health outcomes and promote equity. Future health data management strategies should prioritize ethical safeguards and inclusive data representation.
+
+References
+Braveman, P., & Gottlieb, L. (2014). The social determinants of health: It’s time to consider the causes of the causes. Public Health Reports, 129(1), 19–31.
+Magnan, S. (2017). Social determinants of health 101 for health care: Five plus five. NAM Perspectives.
+Rajkomar, A., et al. (2022). Machine learning in medicine. New England Journal of Medicine, 380(14), 1347–1358.
+Walker, R. J., et al. (2021). Effect of food insecurity on chronic disease. Journal of General Internal Medicine, 36(5), 1463–1470.
+

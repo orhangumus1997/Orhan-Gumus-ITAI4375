@@ -1,0 +1,74 @@
+Medical Terminology Identification Assignment
+
+Orhan Gumus
+Course: Introduction to Healthcare Data and AI
+Instructor: Dr. Doreen Rosenstrauch
+Date: January 2026
+ 
+Abstract
+This paper examines commonly used medical terminologies encountered in contemporary healthcare literature and reports, with an emphasis on their relevance to clinical practice and artificial intelligence applications. The objective is to identify and define key medical terms, explain their contextual usage, and analyze their importance within healthcare systems. Recent peer-reviewed journal articles and authoritative healthcare reports were reviewed to identify representative terminologies. The selected terms reflect critical areas such as electronic health records, clinical decision support, population health, and synthetic data usage. Understanding these terms is essential for healthcare professionals and students working at the intersection of medicine, data analytics, and artificial intelligence. Clear comprehension of medical terminology supports accurate communication, ethical data use, and informed decision-making in clinical and research settings.
+
+Keywords: medical terminology, healthcare data, artificial intelligence, clinical informatics
+ 
+Introduction
+Medical terminology forms the foundation of effective communication in healthcare and medical research. As artificial intelligence becomes increasingly integrated into healthcare environments, understanding specialized medical language is essential for ensuring accuracy, safety, and ethical data use. This paper identifies and analyzes key medical terminologies commonly found in recent healthcare literature, demonstrating their definitions, contexts, and importance in modern medicine.
+Background
+The rapid digitization of healthcare has expanded the volume and complexity of medical data. Electronic health records, large-scale databases, and AI-driven tools rely on standardized medical terminology to function effectively. Familiarity with these terms enables clinicians, researchers, and students to interpret health information accurately and apply emerging technologies responsibly.
+Body
+Term: Electronic Health Record (EHR)
+Definition: A digital record of a patient’s medical history.
+Context: Referenced in studies discussing AI-supported clinical workflows.
+Importance: EHRs support continuity of care and data-driven decision-making.
+
+Term: Myocardial Infarction
+Definition: The death of heart muscle due to lack of blood supply.
+Context: Used in cardiovascular outcome research.
+Importance: Critical for diagnosis and emergency treatment.
+
+Term: Clinical Decision Support System (CDSS)
+Definition: Software designed to aid clinical decisions.
+Context: Appears in discussions of AI-based diagnostics.
+Importance: Improves patient safety and clinical accuracy.
+
+Term: Predictive Analytics
+Definition: Use of data to forecast future outcomes.
+Context: Applied in hospital readmission prediction studies.
+Importance: Supports proactive and preventive care.
+
+Term: Machine Learning
+Definition: Algorithms that learn patterns from data.
+Context: Commonly referenced in healthcare AI research.
+Importance: Enables automation and complex data analysis.
+
+Term: Diagnostic Imaging
+Definition: Techniques to visualize internal body structures.
+Context: Used in AI-assisted radiology literature.
+Importance: Essential for accurate diagnosis.
+
+Term: Population Health
+Definition: Health outcomes of a defined group.
+Context: Used in public health surveillance reports.
+Importance: Guides health policy and prevention strategies.
+
+Term: Interoperability
+Definition: Ability of systems to exchange data.
+Context: Discussed in health IT infrastructure reports.
+Importance: Ensures seamless information flow.
+
+Term: Synthetic Data
+Definition: Artificially generated data mimicking real patient data.
+Context: Used in AI training research.
+Importance: Protects patient privacy.
+
+Term: Health Informatics
+Definition: Application of IT in healthcare.
+Context: Appears in academic healthcare technology studies.
+Importance: Bridges clinical practice and data science.
+
+Conclusion
+In conclusion, understanding medical terminology is essential for navigating modern healthcare systems and leveraging artificial intelligence responsibly. The analyzed terms illustrate how standardized language supports clinical care, research, and data-driven innovation. Mastery of such terminology enhances communication, ethical practice, and informed decision-making across healthcare environments.
+ 
+References
+Raghupathi, W., & Raghupathi, V. (2020). Big data analytics in healthcare: Promise and potential. Health Information Science and Systems, 8(1), 1–10. https://doi.org/10.1007/s13755-020-00103-4
+Topol, E. (2023). High-performance medicine: The convergence of human and artificial intelligence. Nature Medicine, 29(1), 44–56. https://doi.org/10.1038/s41591-022-02148-1
+OpenAI. (2024). ChatGPT (GPT-4 version). Retrieved from https://chat.openai.com

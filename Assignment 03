@@ -1,0 +1,33 @@
+Future Scenarios for AI-Powered Clinical Decision Support Systems (CDSS)
+
+Orhan Gumus
+
+Department of Healthcare Administration, Houston Community College
+
+AI in Healthcare
+
+Professor Dr. Doreen Rosenstrauch
+
+Feb 3, 2026
+ 
+Abstract
+Artificial intelligence is increasingly integrated into healthcare through advanced Clinical Decision Support Systems. AI-powered platforms such as Glass Health combine large language models with evidence-based clinical guidelines to assist clinicians in diagnostic reasoning and treatment planning. This paper explores a future scenario, five to ten years from now, in which AI-powered CDSS are widely implemented across healthcare settings. The discussion examines system capabilities, clinician interaction, potential benefits for patient outcomes, and ethical considerations such as data privacy and algorithmic bias. Current research on artificial intelligence in healthcare is used to ground this scenario in existing evidence while comparing future systems to today’s largely rule-based CDSS. The analysis highlights the potential for AI-powered CDSS to enhance clinical accuracy, reduce provider burden, and improve healthcare delivery while maintaining essential human oversight.
+ 
+Introduction
+Artificial intelligence has become a transformative force in healthcare, particularly through the development of Clinical Decision Support Systems. Traditional CDSS have provided rule-based alerts and reminders; however, advances in machine learning and natural language processing have enabled more sophisticated tools. This paper presents a future scenario in which AI-powered CDSS, similar to Glass Health, are widely adopted and integrated into routine clinical practice.
+Future Capabilities of AI-Powered CDSS
+In the next decade, AI-powered CDSS are expected to integrate seamlessly with electronic health records and other digital health technologies. These systems will analyze structured and unstructured clinical data in real time to generate prioritized differential diagnoses, personalized treatment recommendations, and evidence-based care pathways. Advanced language models will enable conversational interaction and transparent clinical reasoning.
+Healthcare Professional Interaction
+Healthcare professionals will remain central decision-makers when using AI-powered CDSS. Clinicians will review, validate, and contextualize AI-generated recommendations prior to implementation. Continuous clinician feedback will allow systems to learn and adapt, supporting workflow efficiency and reducing documentation burden.
+Benefits for Patient Care and Outcomes
+AI-powered CDSS have the potential to improve diagnostic accuracy, reduce medical errors, and promote consistent adherence to evidence-based practices. Research indicates that machine learning tools can enhance patient safety and support clinical decision-making when used alongside human expertise (Rajkomar et al., 2019).
+Challenges and Ethical Considerations
+Despite their promise, AI-powered CDSS raise ethical and operational concerns. Key issues include patient data privacy, algorithmic bias, lack of explainability, and overreliance on automated recommendations. Addressing these challenges will require regulatory oversight, transparent algorithms, and continued clinician supervision (Shortliffe & Sepúlveda, 2018).
+Comparison to Current CDSS
+Current CDSS implementations rely primarily on static rules and alerts that often contribute to alert fatigue. Future AI-powered systems will be adaptive, context-aware, and capable of nuanced reasoning, representing a significant advancement over existing technologies.
+Conclusion
+In conclusion, AI-powered Clinical Decision Support Systems are positioned to significantly transform healthcare delivery. Evidence suggests that when responsibly implemented, these systems can enhance decision-making, improve patient outcomes, and reduce clinician burnout. Continued research and ethical governance will be essential to realizing their full potential.
+References
+Rajkomar, A., Dean, J., & Kohane, I. (2019). Machine learning in medicine. New England Journal of Medicine, 380(14), 1347–1358.
+Shortliffe, E. H., & Sepúlveda, M. J. (2018). Clinical decision support in the era of artificial intelligence. JAMA, 320(21), 2199–2200.
+Topol, E. J. (2019). High-performance medicine: The convergence of human and artificial intelligence. Nature Medicine, 25(1), 44–56.
